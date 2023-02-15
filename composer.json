@@ -1,0 +1,20 @@
+{
+    "name": "daedaedaedaedaedae/goose",
+    "description": "dae",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Daedaedaedaedaedae\\Goose\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dae"
+        }
+    ],
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    }
+}
